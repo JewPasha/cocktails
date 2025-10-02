@@ -1,4 +1,4 @@
-## **[Velvet landing page](velvetcocktails.netlify.app)**
+## **[Velvet landing page](https://velvetcocktails.netlify.app)**
 
 
 <div align="center">
